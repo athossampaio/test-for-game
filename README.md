@@ -1,1 +1,2 @@
-# test-for-game
+- Basic archery
+- Basic arrow crafting
