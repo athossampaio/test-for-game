@@ -1,1 +1,2 @@
-# test-for-game
+- Basic horseriding
+- Basic horse taming
