@@ -1,2 +1,3 @@
-- Basic horseriding
-- Basic horse taming
+# Test game project
+
+Info:
