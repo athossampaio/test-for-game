@@ -1,1 +1,3 @@
-# test-for-game
+# Test game project
+
+Info:
