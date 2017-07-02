@@ -1,2 +1,3 @@
-- Basic archery
-- Basic arrow crafting
+# Test game project
+
+Info:
